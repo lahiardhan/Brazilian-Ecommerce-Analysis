@@ -3,5 +3,5 @@ pandas
 matplotlib
 seaborn
 datetime
-urllib
+urllib3==2.0.6
 streamlit
