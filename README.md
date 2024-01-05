@@ -1,6 +1,7 @@
 # Submission Akhir Dicoding Kelas "Belajar Data Analisis Dengan Python"
 
-## Preview Project Dashboard 
+## Preview Project Streamlit Dashboard 
+
 https://github.com/lahiardhan/Dicoding-Data-Analisis-Dengan-Python/assets/87599499/fa21ee53-a84c-4a0a-8dd5-758fd3de6155
 
 
